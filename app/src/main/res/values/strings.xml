@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FORMULARIO DE CONTACTO</string>
+    <string name="titulo_nombre">Nombre completo:</string>
+    <string name="input_name">Introduzca su nombre completo</string>
+    <string name="titulo_fecha_nacimiento">Fecha de nacimiento:</string>
+    <string name="titulo_mail">E-Mail:</string>
+    <string name="input_mail">Introduzca su E-Mail</string>
+    <string name="titulo_telefono">Telefono:</string>
+    <string name="input_telefono">Ingrese su numero de telefono</string>
+    <string name="titulo_descripcion">Descripcion de contacto:</string>
+    <string name="input_descripcion">Ingrese descripcion del contacto</string>
+</resources>
